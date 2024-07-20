@@ -1,1 +1,7 @@
 *.o
+build/
+output/
+.simExamples
+.verilogExamples
+.gatherModules-Example-AXI4-MasterSlave.bsv
+.gatherModules-Example-AXI4Lite-MasterSlave.bsv
